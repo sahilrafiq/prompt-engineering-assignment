@@ -4,7 +4,7 @@ A modern, responsive SaaS landing page created using detailed prompt engineering
 
 ## 🚀 Live Demo
 
-**Live Website:** []  
+**Live Website:** [https://sahilrafiq.github.io/prompt-engineering-assignment/]  
 **Repository:** https://github.com/sahilrafiq/prompt-engineering-assignment
 
 ## 📋 Project Overview
